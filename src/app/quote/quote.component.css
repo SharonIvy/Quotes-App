@@ -1,3 +1,12 @@
-.container {
-  background-color: rgba(133, 79, 130, 0.062);
+.content {
+  margin: 8px;
+  padding: 8px;
+}
+
+.container > h1 {
+  color: #fbfbfb;
+}
+
+.container > hr {
+  background-color: aqua;
 }

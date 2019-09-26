@@ -1,1 +1,10 @@
-@import "~bootstrap/dist/css/bootstrap.css"
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body {
+  font-family: 'Satisfy', cursive;
+  background-image: url('./assets/marcela.jpg');
+}
+
+.container {
+  background-color: rgba(133, 79, 130, 0.062);
+}
