@@ -1,6 +1,36 @@
-# Quotes
-
+# QUOTES APPLICATION
+#### By: Sharon Ivy Kendi
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
+
+## DESCRIPTION
+This is an application where users can create quotes, have them upvoted or downvoted and delete them.
+
+## PRE-REQUISITES
+* An up-to-date browser
+* Git
+* Angular CLI
+* npm
+* Text Editor
+
+## PROJECT SETUP REQUIREMENTS:
+  * Fork this repository.
+  * Run the command;
+    'git clone https://github.com/SharonIvy/quotes-app.git' to clone.
+
+## TECHNOLOGIES USED
+
+* HTML
+* CSS
+* Bootstrap
+* TypeScript
+
+## LIVE DEMO
+
+The live demo to the project can be found [by clicking here]()
+
+## License
+
+This website is under the MIT license which can be found [HERE](LICENSE)
 
 ## Development server
 
