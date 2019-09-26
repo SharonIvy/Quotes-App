@@ -6,5 +6,6 @@ import { Directive, ElementRef } from '@angular/core';
 export class HighlightBoldDirective {
 
   constructor(private elem: ElementRef) { }
+    this.elem.nativeElement.style.textDecoration = 'bold';
 
 }
