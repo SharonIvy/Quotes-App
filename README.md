@@ -28,9 +28,10 @@ This is an application where users can create quotes, have them upvoted or downv
 
 The live demo to the project can be found [by clicking here] `https://sharon-ivy.github.io/quotes-app/`
 
-## License
+## LICENSE:
+  MIT License
 
-This website is under the MIT license which can be found [HERE](LICENSE)
+  Copyright (c) 2018 **Sharon Ivy Kendi M.**
 
 ## Development server
 
@@ -55,3 +56,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Support and contact details:
+  e-mail; kendishivy72@gmail.com
