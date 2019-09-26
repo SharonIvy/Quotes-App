@@ -1,7 +1,0 @@
-<p>Author: {{quote.author}} </p>
-<p>By: @{{quote.poster}} </p>
-<p>Posted {{quote.datePosted|dateCount}} days ago</p>
-<button (click)='upVote()'><fa-icon [icon]="faThumbsUp"></fa-icon> {{quote.upvotes}}</button>
-<button (click)='downVote()'><fa-icon [icon]="faThumbsDown"></fa-icon> {{quote.downvotes}}</button>
-<p></p>
-<button (click)='quoteComplete(true)'>Delete Quote</button>
