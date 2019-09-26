@@ -26,7 +26,7 @@ This is an application where users can create quotes, have them upvoted or downv
 
 ## LIVE DEMO
 
-The live demo to the project can be found [by clicking here] `https://sharon-ivy.github.io/quotes-app/`
+The live demo to the project can be found at https://sharon-ivy.github.io/quotes-app/
 
 ## LICENSE:
   MIT License
